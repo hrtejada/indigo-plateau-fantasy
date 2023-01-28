@@ -1,3 +1,28 @@
+# Indigo Plateau Fantasy
+
+## Pages
+- Home
+- League Info
+- Matchups
+- Blog
+
+## Potential Resources
+Resources for different aspects of the site
+
+### Colors/Themes
+First one I really like is [Coolors](https://coolors.co/).
+This site helps you generate complementary colors easily.
+
+Next one is more for getting values but does give a decent amount of info - [Color-Hex](https://www.color-hex.com/). 
+It shows all the color codes for whatever color you enter, which is helpful for keeping the color consistent across different browsers and screens. Also it gives a bunch of examples towards the bottom of a colors page which is helpful sometimes
+
+### Icons
+If there is going to be a lot of icons, it's hard to beat [FontAwesome](https://fontawesome.com/) really lol
+
+### Fonts
+I've only used [Google Fonts](https://fonts.google.com/). Tons of fonts and it helps you narrow down your choice
+
+#
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
