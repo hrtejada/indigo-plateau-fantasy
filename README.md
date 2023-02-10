@@ -9,6 +9,18 @@
 ## Potential Resources
 Resources for different aspects of the site
 
+### UI Libraries
+Take a look through some Svelte UI libraries. They are helpful since they have a good amount of typical components already built and styled.
+- [Svelte Material UI](https://sveltematerialui.com/)
+- IBM based [Carbon Components](https://carbon-components-svelte.onrender.com/)
+- [Smelte](https://smeltejs.com/)
+- [Sveltestrap](https://sveltestrap.js.org/?path=/story/components--get-started)
+
+Or any other library you might find.
+
+Or if you want to go nightmare mode and create our own components from scratch lol
+
+
 ### Colors/Themes
 First one I really like is [Coolors](https://coolors.co/).
 This site helps you generate complementary colors easily.
